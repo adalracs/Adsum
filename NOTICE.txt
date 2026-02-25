@@ -1,0 +1,296 @@
+Chinese (Simplified)
+
+作者声明 – ADSUM 1.x
+
+Adsum 是由 Andrés Riascos 完整设计与开发的原创软件作品。
+
+与大多数现代语言不同，Adsum 不是现有基础设施的前端。本软件在构建过程中未使用：
+
+* LLVM（低级虚拟机）
+* GCC（GNU 编译器集合）
+* 自动语法分析生成器（Yacc、Bison、ANTLR）
+
+整个多语言规范化引擎、确定性类型系统以及 x86_64 机器代码生成后端均从零开始实现，属于私人知识产权。
+
+该二进制文件不包含也不链接任何具有署名要求的第三方库，从而保证一个主权且自主的运行环境。
+
+
+---
+
+
+English
+
+NOTICE OF AUTHORSHIP – ADSUM 1.x
+
+Adsum is an original software work designed and entirely developed by Andrés Riascos.
+
+Unlike most modern languages, Adsum is not a front-end for existing infrastructures. This software has been built without the use of:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Automatic parser generators (Yacc, Bison, ANTLR)
+
+The entire multilingual normalization engine, the deterministic type system, and the x86_64 machine code generation backend have been implemented from scratch as private intellectual property.
+
+This binary does not contain nor link third-party libraries under attributable licenses, ensuring a sovereign and autonomous execution environment.
+
+
+---
+
+
+Español
+
+AVISO DE AUTORÍA - ADSUM 1.x
+
+Adsum es una obra original de software diseñada y desarrollada íntegramente por Andrés Riascos.
+
+A diferencia de la mayoría de los lenguajes modernos, Adsum no es un front-end para infraestructuras existentes. Este software ha sido construido sin el uso de:
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Generadores de parsers automáticos (Yacc, Bison, ANTLR)
+
+Todo el motor de normalización multiidioma, el sistema de tipos determinista y el backend de generación de código máquina x86_64 han sido implementados desde cero como propiedad intelectual privada.
+
+Este binario no contiene ni enlaza librerías de terceros bajo licencias atributibles, garantizando un entorno de ejecución soberano y autónomo.
+
+
+---
+
+
+Hindi
+
+लेखक सूचना – ADSUM 1.x
+
+Adsum एक मौलिक सॉफ़्टवेयर कृति है जिसे Andrés Riascos द्वारा पूर्ण रूप से डिज़ाइन और विकसित किया गया है।
+
+अधिकांश आधुनिक भाषाओं के विपरीत, Adsum किसी मौजूदा अवसंरचना का फ्रंट-एंड नहीं है। यह सॉफ़्टवेयर निम्नलिखित के उपयोग के बिना निर्मित किया गया है:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* स्वचालित पार्सर जनरेटर (Yacc, Bison, ANTLR)
+
+पूरा बहुभाषी सामान्यीकरण इंजन, निर्धारक प्रकार प्रणाली, और x86_64 मशीन कोड जनरेशन बैकएंड शून्य से निजी बौद्धिक संपदा के रूप में विकसित किए गए हैं।
+
+यह बाइनरी किसी भी तृतीय-पक्ष लाइब्रेरी को शामिल या लिंक नहीं करती जिन पर श्रेय आवश्यक हो, जिससे एक संप्रभु और स्वायत्त निष्पादन वातावरण सुनिश्चित होता है।
+
+
+---
+
+
+Arabic
+
+إشعار الملكية – ADSUM 1.x
+
+Adsum هو عمل برمجي أصلي تم تصميمه وتطويره بالكامل بواسطة Andrés Riascos.
+
+على عكس معظم اللغات الحديثة، فإن Adsum ليس واجهة أمامية لبنى تحتية قائمة. تم بناء هذا البرنامج دون استخدام:
+
+* LLVM (الآلة الافتراضية منخفضة المستوى)
+* GCC (مجموعة مترجم جنو)
+* مولدات المحلل الآلي (Yacc، Bison، ANTLR)
+
+تم تنفيذ محرك التطبيع متعدد اللغات بالكامل، ونظام الأنواع الحتمي، وواجهة توليد كود الآلة x86_64 من الصفر كملكية فكرية خاصة.
+
+لا يحتوي هذا الملف الثنائي على مكتبات طرف ثالث خاضعة لتراخيص تتطلب الإسناد ولا يرتبط بها، مما يضمن بيئة تنفيذ سيادية ومستقلة.
+
+
+---
+
+
+Bengali
+
+স্বত্ব ঘোষণা – ADSUM 1.x
+
+Adsum একটি মৌলিক সফটওয়্যার সৃষ্টি, যা সম্পূর্ণরূপে Andrés Riascos দ্বারা নকশা ও উন্নয়ন করা হয়েছে।
+
+বেশিরভাগ আধুনিক ভাষার বিপরীতে, Adsum বিদ্যমান অবকাঠামোর কোনো ফ্রন্ট-এন্ড নয়। এই সফটওয়্যারটি নিম্নলিখিত ব্যবহার ছাড়াই নির্মিত হয়েছে:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* স্বয়ংক্রিয় পার্সার জেনারেটর (Yacc, Bison, ANTLR)
+
+সম্পূর্ণ বহুভাষিক স্বাভাবিকীকরণ ইঞ্জিন, নির্ধারক টাইপ সিস্টেম এবং x86_64 মেশিন কোড জেনারেশন ব্যাকএন্ড শূন্য থেকে ব্যক্তিগত মেধাস্বত্ব হিসেবে বাস্তবায়িত হয়েছে।
+
+এই বাইনারি কোনো তৃতীয় পক্ষের লাইব্রেরি অন্তর্ভুক্ত বা লিঙ্ক করে না যা স্বীকৃতি-ভিত্তিক লাইসেন্সের অধীনে, ফলে একটি সার্বভৌম ও স্বায়ত্তশাসিত নির্বাহ পরিবেশ নিশ্চিত হয়।
+
+
+---
+
+
+Portugués
+
+AVISO DE AUTORIA – ADSUM 1.x
+
+Adsum é uma obra original de software projetada e desenvolvida integralmente por Andrés Riascos.
+
+Ao contrário da maioria das linguagens modernas, Adsum não é um front-end para infraestruturas existentes. Este software foi construído sem o uso de:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Geradores automáticos de parsers (Yacc, Bison, ANTLR)
+
+Todo o mecanismo de normalização multilíngue, o sistema de tipos determinístico e o backend de geração de código de máquina x86_64 foram implementados do zero como propriedade intelectual privada.
+
+Este binário não contém nem vincula bibliotecas de terceiros sob licenças que exijam atribuição, garantindo um ambiente de execução soberano e autônomo.
+
+
+---
+
+
+Russian
+
+УВЕДОМЛЕНИЕ ОБ АВТОРСТВЕ – ADSUM 1.x
+
+Adsum является оригинальным программным продуктом, полностью разработанным и созданным Андресом Риаскосом.
+
+В отличие от большинства современных языков, Adsum не является фронтендом для существующих инфраструктур. Данное программное обеспечение создано без использования:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Автоматических генераторов парсеров (Yacc, Bison, ANTLR)
+
+Весь механизм многоязычной нормализации, детерминированная система типов и бэкенд генерации машинного кода x86_64 реализованы с нуля как частная интеллектуальная собственность.
+
+Данный бинарный файл не содержит и не связывает сторонние библиотеки под лицензиями, требующими указания авторства, что гарантирует суверенную и автономную среду выполнения.
+
+
+---
+
+
+Japanese
+
+著作権表示 – ADSUM 1.x
+
+Adsum は Andrés Riascos によって完全に設計および開発された独自のソフトウェア作品です。
+
+ほとんどの現代的な言語とは異なり、Adsum は既存のインフラストラクチャのフロントエンドではありません。本ソフトウェアは以下を使用せずに構築されています。
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* 自動パーサ生成ツール（Yacc、Bison、ANTLR）
+
+多言語正規化エンジン全体、決定論的型システム、および x86_64 マシンコード生成バックエンドは、私的知的財産としてゼロから実装されています。
+
+このバイナリは、帰属表示を必要とする第三者ライブラリを含まず、またリンクもしていません。これにより、主権的かつ自律的な実行環境が保証されます。
+
+
+---
+
+
+Indonesio
+
+PEMBERITAHUAN KEPEMILIKAN – ADSUM 1.x
+
+Adsum adalah karya perangkat lunak asli yang dirancang dan dikembangkan sepenuhnya oleh Andrés Riascos.
+
+Berbeda dengan sebagian besar bahasa modern, Adsum bukanlah front-end untuk infrastruktur yang sudah ada. Perangkat lunak ini dibangun tanpa menggunakan:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Generator parser otomatis (Yacc, Bison, ANTLR)
+
+Seluruh mesin normalisasi multibahasa, sistem tipe deterministik, dan backend generasi kode mesin x86_64 telah diimplementasikan dari nol sebagai kekayaan intelektual pribadi.
+
+Biner ini tidak mengandung maupun menautkan pustaka pihak ketiga di bawah lisensi yang mewajibkan atribusi, sehingga menjamin lingkungan eksekusi yang berdaulat dan otonom.
+
+
+---
+
+
+Francés
+
+AVIS D’AUTORITÉ – ADSUM 1.x
+
+Adsum est une œuvre logicielle originale conçue et développée intégralement par Andrés Riascos.
+
+Contrairement à la plupart des langages modernes, Adsum n’est pas un front-end pour des infrastructures existantes. Ce logiciel a été construit sans l’utilisation de :
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Générateurs automatiques de parseurs (Yacc, Bison, ANTLR)
+
+L’ensemble du moteur de normalisation multilingue, le système de types déterministe et le backend de génération de code machine x86_64 ont été implémentés depuis zéro en tant que propriété intellectuelle privée.
+
+Ce binaire ne contient ni ne lie de bibliothèques tierces sous licences nécessitant une attribution, garantissant un environnement d’exécution souverain et autonome.
+
+
+---
+
+
+Alemán
+
+URHEBERHINWEIS – ADSUM 1.x
+
+Adsum ist ein originäres Softwarewerk, das vollständig von Andrés Riascos entworfen und entwickelt wurde.
+
+Im Gegensatz zu den meisten modernen Sprachen ist Adsum kein Frontend für bestehende Infrastrukturen. Diese Software wurde ohne die Verwendung von:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Automatischen Parsergeneratoren (Yacc, Bison, ANTLR)
+
+entwickelt.
+
+Die gesamte mehrsprachige Normalisierungs-Engine, das deterministische Typsystem und das Backend zur Generierung von x86_64-Maschinencode wurden von Grund auf als privates geistiges Eigentum implementiert.
+
+Diese Binärdatei enthält keine Drittanbieterbibliotheken unter lizenzpflichtigen Attributionsbedingungen und verlinkt auch keine, wodurch eine souveräne und autonome Ausführungsumgebung gewährleistet wird.
+
+
+---
+
+
+Turco
+
+YAZARLIK BİLDİRİMİ – ADSUM 1.x
+
+Adsum, Andrés Riascos tarafından tamamen tasarlanmış ve geliştirilmiş özgün bir yazılım eseridir.
+
+Çoğu modern dilin aksine, Adsum mevcut altyapılar için bir front-end değildir. Bu yazılım aşağıdakilerin kullanımı olmadan oluşturulmuştur:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Otomatik ayrıştırıcı üreticileri (Yacc, Bison, ANTLR)
+
+Tüm çok dilli normalizasyon motoru, deterministik tip sistemi ve x86_64 makine kodu üretim arka ucu sıfırdan özel fikri mülkiyet olarak uygulanmıştır.
+
+Bu ikili dosya, atıf gerektiren lisanslara sahip üçüncü taraf kütüphaneler içermez veya onlara bağlanmaz; böylece egemen ve otonom bir yürütme ortamı garanti edilir.
+
+
+---
+
+
+Coreano
+
+저작권 고지 – ADSUM 1.x
+
+Adsum은 Andrés Riascos가 전적으로 설계하고 개발한 독창적인 소프트웨어 작품입니다.
+
+대부분의 현대 언어와 달리, Adsum은 기존 인프라의 프런트엔드가 아닙니다. 본 소프트웨어는 다음을 사용하지 않고 구축되었습니다:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* 자동 파서 생성기 (Yacc, Bison, ANTLR)
+
+전체 다국어 정규화 엔진, 결정론적 타입 시스템 및 x86_64 기계 코드 생성 백엔드는 개인 지적 재산으로서 처음부터 구현되었습니다.
+
+이 바이너리는 귀속 표시가 필요한 제3자 라이브러리를 포함하거나 링크하지 않으며, 주권적이고 자율적인 실행 환경을 보장합니다.
+
+
+---
+
+
+Italiano
+
+AVVISO DI PATERNITÀ – ADSUM 1.x
+
+Adsum è un’opera software originale progettata e sviluppata integralmente da Andrés Riascos.
+
+A differenza della maggior parte dei linguaggi moderni, Adsum non è un front-end per infrastrutture esistenti. Questo software è stato costruito senza l’uso di:
+
+* LLVM (Low Level Virtual Machine)
+* GCC (GNU Compiler Collection)
+* Generatori automatici di parser (Yacc, Bison, ANTLR)
+
+L’intero motore di normalizzazione multilingue, il sistema di tipi deterministico e il backend di generazione del codice macchina x86_64 sono stati implementati da zero come proprietà intellettuale privata.
+
+Questo binario non contiene né collega librerie di terze parti soggette a licenze con obbligo di attribuzione, garantendo un ambiente di esecuzione sovrano e autonomo.
