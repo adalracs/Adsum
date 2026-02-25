@@ -1,0 +1,327 @@
+English
+
+END USER LICENSE AGREEMENT (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. All rights reserved.
+
+1. LICENSE OF USE: The Author grants the User a free, non-exclusive and non-transferable license to use the Adsum compiler solely in its executable binary form.
+
+2. OWNERSHIP OF RESULTING SOFTWARE: The User is the absolute owner of any software, source code or binary generated through the use of Adsum. The User has the right to distribute, sell or license their own creations under any legal terms, without obligation to pay royalties to the Author of Adsum.
+
+3. REVERSE ENGINEERING RESTRICTIONS: The User is strictly prohibited from:
+   a) Decompiling, disassembling or reverse engineering the Adsum compiler binary.
+   b) Modifying the executable files of the compiler.
+   c) Attempting to derive the source code of the compiler from its binaries.
+
+4. REDISTRIBUTION OF THE COMPILER: Free redistribution of the Adsum compiler is permitted provided that this EULA file is included and the original package remains complete and unmodified.
+
+5. LIMITATION OF LIABILITY: The software is provided "AS-IS". The Author does not guarantee that the cryptographic or networking functions (direct x86_64) are free of errors. In no event shall the Author be liable for direct or indirect damages arising from the use of this compiler.
+
+
+---
+
+
+Chinese (Simplified)
+
+最终用户许可协议 (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos。保留所有权利。
+
+1. 使用许可：作者授予用户一项免费、非独占且不可转让的许可，仅可在可执行二进制形式下使用 Adsum 编译器。
+
+2. 生成软件的所有权：用户对通过使用 Adsum 生成的任何软件、源代码或二进制文件拥有完全所有权。用户有权在任何合法条款下分发、销售或许可其自身创作，无需向 Adsum 作者支付任何版税。
+
+3. 反向工程限制：严禁用户：
+   a) 对 Adsum 编译器二进制文件进行反编译、反汇编或逆向工程。
+   b) 修改编译器的可执行文件。
+   c) 试图从其二进制文件中推导出编译器的源代码。
+
+4. 编译器的再分发：允许免费再分发 Adsum 编译器，但必须包含本 EULA 文件，并保持原始软件包完整且未作修改。
+
+5. 责任限制：本软件按“原样”(AS-IS) 提供。作者不保证加密或网络功能（直接 x86_64）不存在错误。在任何情况下，作者均不对因使用本编译器而产生的直接或间接损害承担责任。
+
+
+---
+
+
+Hindi
+
+अंतिम उपयोगकर्ता लाइसेंस समझौता (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos। सर्वाधिकार सुरक्षित।
+
+1. उपयोग लाइसेंस: लेखक उपयोगकर्ता को Adsum कंपाइलर का उपयोग केवल उसके निष्पादन योग्य बाइनरी रूप में करने के लिए एक निःशुल्क, गैर-विशिष्ट और गैर-हस्तांतरणीय लाइसेंस प्रदान करता है।
+
+2. उत्पन्न सॉफ़्टवेयर का स्वामित्व: उपयोगकर्ता Adsum के उपयोग से उत्पन्न किसी भी सॉफ़्टवेयर, स्रोत कोड या बाइनरी का पूर्ण स्वामी होगा। उपयोगकर्ता को अपनी रचनाओं को किसी भी कानूनी शर्तों के तहत वितरित, बेचने या लाइसेंस देने का अधिकार है, और Adsum के लेखक को किसी रॉयल्टी का भुगतान करने की आवश्यकता नहीं होगी।
+
+3. रिवर्स इंजीनियरिंग पर प्रतिबंध: उपयोगकर्ता को सख्ती से निषिद्ध है:
+   a) Adsum कंपाइलर के बाइनरी का डी-कंपाइल, डिसअसेंबल या रिवर्स इंजीनियर करना।
+   b) कंपाइलर की निष्पादन योग्य फ़ाइलों को संशोधित करना।
+   c) उसके बाइनरी से कंपाइलर का स्रोत कोड निकालने का प्रयास करना।
+
+4. कंपाइलर का पुनर्वितरण: Adsum कंपाइलर का निःशुल्क पुनर्वितरण अनुमत है, बशर्ते यह EULA फ़ाइल शामिल हो और मूल पैकेज पूर्ण और अपरिवर्तित रहे।
+
+5. दायित्व की सीमा: सॉफ़्टवेयर "जैसा है" (AS-IS) आधार पर प्रदान किया जाता है। लेखक यह गारंटी नहीं देता कि क्रिप्टोग्राफिक या नेटवर्क कार्य (प्रत्यक्ष x86_64) त्रुटिरहित हैं। किसी भी स्थिति में लेखक इस कंपाइलर के उपयोग से उत्पन्न प्रत्यक्ष या अप्रत्यक्ष क्षति के लिए उत्तरदायी नहीं होगा।
+
+
+---
+
+
+Arabic
+
+اتفاقية ترخيص المستخدم النهائي (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. جميع الحقوق محفوظة.
+
+1. ترخيص الاستخدام: يمنح المؤلف المستخدم ترخيصًا مجانيًا وغير حصري وغير قابل للتحويل لاستخدام مترجم Adsum فقط بصيغته الثنائية التنفيذية.
+
+2. ملكية البرمجيات الناتجة: يكون المستخدم المالك المطلق لأي برنامج أو كود مصدري أو ملف ثنائي يتم إنشاؤه باستخدام Adsum. ويحق للمستخدم توزيع أو بيع أو ترخيص إبداعاته الخاصة بموجب أي شروط قانونية دون التزام بدفع أي إتاوات لمؤلف Adsum.
+
+3. قيود الهندسة العكسية: يُحظر على المستخدم بشكل صارم:
+   a) فك الترجمة أو التفكيك أو إجراء هندسة عكسية للملف الثنائي لمترجم Adsum.
+   b) تعديل الملفات التنفيذية للمترجم.
+   c) محاولة اشتقاق الكود المصدري للمترجم من ملفاته الثنائية.
+
+4. إعادة توزيع المترجم: يُسمح بإعادة توزيع مترجم Adsum مجانًا بشرط تضمين ملف EULA هذا والحفاظ على الحزمة الأصلية كاملة ودون تعديل.
+
+5. تحديد المسؤولية: يتم توفير البرنامج "كما هو" (AS-IS). لا يضمن المؤلف أن وظائف التشفير أو الشبكة (x86_64 مباشر) خالية من الأخطاء. ولا يتحمل المؤلف في أي حال من الأحوال المسؤولية عن أي أضرار مباشرة أو غير مباشرة ناتجة عن استخدام هذا المترجم.
+
+
+---
+
+
+Español
+
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA) - ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Todos los derechos reservados.
+
+1. LICENCIA DE USO: El Autor otorga al Usuario una licencia gratuita, no exclusiva y  no transferible para utilizar el compilador Adsum únicamente en su formato binario ejecutable.
+
+2. PROPIEDAD DEL SOFTWARE RESULTANTE: El Usuario es el dueño absoluto de cualquier 
+   software, código fuente o binario generado mediante el uso de Adsum. El Usuario tiene derecho a distribuir, vender o licenciar sus propias creaciones bajo cualquier término legal, sin obligación de pagar regalías al Autor de Adsum.
+
+3. RESTRICCIONES DE INGENIERÍA INVERSA: El Usuario tiene estrictamente prohibido:
+   a) Descompilar, desensamblar o realizar ingeniería inversa sobre el binario  del compilador Adsum.
+   b) Modificar los archivos ejecutables del compilador.
+   c) Intentar derivar el código fuente del compilador a partir de sus binarios.
+
+4. REDISTRIBUCIÓN DEL COMPILADOR: Se permite la redistribución gratuita del  compilador Adsum siempre que se incluya este archivo EULA y el paquete original  se mantenga íntegro y sin modificaciones.
+
+5. LIMITACIÓN DE RESPONSABILIDAD: El software se proporciona "tal cual" (AS-IS). 
+   El Autor no garantiza que las funciones criptográficas o de red (x86_64 directo) estén libres de errores. En ningún caso el Autor será responsable de daños directos o indirectos derivados del uso de este compilador.
+
+
+---
+
+
+Bengali
+
+চূড়ান্ত ব্যবহারকারী লাইসেন্স চুক্তি (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos। সর্বস্বত্ব সংরক্ষিত।
+
+1. ব্যবহার লাইসেন্স: লেখক ব্যবহারকারীকে Adsum কম্পাইলার শুধুমাত্র তার নির্বাহযোগ্য বাইনারি রূপে ব্যবহারের জন্য একটি বিনামূল্যের, অ-একচেটিয়া এবং অ-হস্তান্তরযোগ্য লাইসেন্স প্রদান করেন।
+
+2. উৎপন্ন সফটওয়্যারের মালিকানা: Adsum ব্যবহারের মাধ্যমে উৎপন্ন যেকোনো সফটওয়্যার, সোর্স কোড বা বাইনারির সম্পূর্ণ মালিক ব্যবহারকারী। ব্যবহারকারী তার নিজস্ব সৃষ্টিগুলি যে কোনো আইনি শর্তে বিতরণ, বিক্রয় বা লাইসেন্স দিতে পারবেন এবং Adsum-এর লেখককে কোনো রয়্যালটি প্রদান করতে হবে না।
+
+3. রিভার্স ইঞ্জিনিয়ারিং সীমাবদ্ধতা: ব্যবহারকারীর জন্য কঠোরভাবে নিষিদ্ধ:
+   a) Adsum কম্পাইলারের বাইনারি ডিকম্পাইল, ডিসঅ্যাসেম্বল বা রিভার্স ইঞ্জিনিয়ার করা।
+   b) কম্পাইলারের নির্বাহযোগ্য ফাইল পরিবর্তন করা।
+   c) বাইনারি থেকে কম্পাইলারের সোর্স কোড উদ্ভাবনের চেষ্টা করা।
+
+4. কম্পাইলারের পুনর্বিতরণ: Adsum কম্পাইলারের বিনামূল্যে পুনর্বিতরণ অনুমোদিত, শর্ত থাকে যে এই EULA ফাইল অন্তর্ভুক্ত থাকবে এবং মূল প্যাকেজ সম্পূর্ণ ও অপরিবর্তিত থাকবে।
+
+5. দায়বদ্ধতার সীমাবদ্ধতা: সফটওয়্যারটি "যেমন আছে" (AS-IS) ভিত্তিতে সরবরাহ করা হয়। লেখক গ্যারান্টি দেন না যে ক্রিপ্টোগ্রাফিক বা নেটওয়ার্ক ফাংশন (সরাসরি x86_64) ত্রুটিমুক্ত। কোনো অবস্থাতেই এই কম্পাইলারের ব্যবহারের ফলে সৃষ্ট প্রত্যক্ষ বা পরোক্ষ ক্ষতির জন্য লেখক দায়ী থাকবেন না।
+
+
+---
+
+
+Portuguese
+
+ACORDO DE LICENÇA DE USUÁRIO FINAL (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Todos os direitos reservados.
+
+1. LICENÇA DE USO: O Autor concede ao Usuário uma licença gratuita, não exclusiva e intransferível para utilizar o compilador Adsum exclusivamente em seu formato binário executável.
+
+2. PROPRIEDADE DO SOFTWARE RESULTANTE: O Usuário é o proprietário absoluto de qualquer software, código-fonte ou binário gerado por meio do uso do Adsum. O Usuário tem o direito de distribuir, vender ou licenciar suas próprias criações sob qualquer termo legal, sem obrigação de pagar royalties ao Autor do Adsum.
+
+3. RESTRIÇÕES DE ENGENHARIA REVERSA: É estritamente proibido ao Usuário:
+   a) Descompilar, desmontar ou realizar engenharia reversa do binário do compilador Adsum.
+   b) Modificar os arquivos executáveis do compilador.
+   c) Tentar derivar o código-fonte do compilador a partir de seus binários.
+
+4. REDISTRIBUIÇÃO DO COMPILADOR: É permitida a redistribuição gratuita do compilador Adsum desde que este arquivo EULA seja incluído e o pacote original permaneça íntegro e sem modificações.
+
+5. LIMITAÇÃO DE RESPONSABILIDADE: O software é fornecido "no estado em que se encontra" (AS-IS). O Autor não garante que as funções criptográficas ou de rede (x86_64 direto) estejam livres de erros. Em nenhuma circunstância o Autor será responsável por danos diretos ou indiretos decorrentes do uso deste compilador.
+
+
+---
+
+
+Russian
+
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Все права защищены.
+
+1. ЛИЦЕНЗИЯ НА ИСПОЛЬЗОВАНИЕ: Автор предоставляет Пользователю бесплатную, неисключительную и непередаваемую лицензию на использование компилятора Adsum исключительно в его исполняемой бинарной форме.
+
+2. ПРАВО СОБСТВЕННОСТИ НА СОЗДАННОЕ ПО: Пользователь является полным владельцем любого программного обеспечения, исходного кода или бинарного файла, созданного с использованием Adsum. Пользователь вправе распространять, продавать или лицензировать свои собственные разработки на любых законных условиях без обязательства выплачивать Автору Adsum какие-либо роялти.
+
+3. ОГРАНИЧЕНИЯ НА ОБРАТНУЮ ИНЖЕНЕРИЮ: Пользователю строго запрещается:
+   a) Декомпилировать, дизассемблировать или осуществлять обратную инженерию бинарного файла компилятора Adsum.
+   b) Изменять исполняемые файлы компилятора.
+   c) Пытаться извлечь исходный код компилятора из его бинарных файлов.
+
+4. РАСПРОСТРАНЕНИЕ КОМПИЛЯТОРА: Бесплатное распространение компилятора Adsum допускается при условии включения данного файла EULA и сохранения оригинального пакета в полном и неизменённом виде.
+
+5. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ: Программное обеспечение предоставляется «как есть» (AS-IS). Автор не гарантирует отсутствие ошибок в криптографических или сетевых функциях (прямой x86_64). Ни при каких обстоятельствах Автор не несёт ответственности за прямой или косвенный ущерб, возникший в результате использования данного компилятора.
+
+
+---
+
+
+Japanese
+
+エンドユーザー使用許諾契約 (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. 無断転載を禁じます。
+
+1. 使用許諾: 著者は、Adsum コンパイラを実行可能なバイナリ形式においてのみ使用するための、無償、非独占的かつ譲渡不能なライセンスをユーザーに付与します。
+
+2. 生成ソフトウェアの所有権: Adsum の使用によって生成されたあらゆるソフトウェア、ソースコードまたはバイナリの完全な所有者はユーザーです。ユーザーは、自身の成果物をいかなる法的条件の下でも配布、販売またはライセンスする権利を有し、Adsum の著者にロイヤリティを支払う義務はありません。
+
+3. リバースエンジニアリングの制限: ユーザーは以下を厳格に禁止されます。
+   a) Adsum コンパイラのバイナリを逆コンパイル、逆アセンブル、またはリバースエンジニアリングすること。
+   b) コンパイラの実行可能ファイルを変更すること。
+   c) バイナリからコンパイラのソースコードを導出しようとすること。
+
+4. コンパイラの再配布: 本 EULA ファイルを含み、元のパッケージが完全かつ未変更の状態である限り、Adsum コンパイラの無償再配布を許可します。
+
+5. 責任の制限: 本ソフトウェアは「現状のまま」(AS-IS) 提供されます。著者は暗号機能またはネットワーク機能（直接 x86_64）に誤りがないことを保証しません。いかなる場合も、本コンパイラの使用に起因する直接的または間接的損害について著者は責任を負いません。
+
+
+---
+
+
+Indonesio
+
+PERJANJIAN LISENSI PENGGUNA AKHIR (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Seluruh hak dilindungi.
+
+1. LISENSI PENGGUNAAN: Penulis memberikan kepada Pengguna lisensi gratis, non-eksklusif, dan tidak dapat dialihkan untuk menggunakan kompiler Adsum hanya dalam bentuk biner yang dapat dieksekusi.
+
+2. KEPEMILIKAN PERANGKAT LUNAK YANG DIHASILKAN: Pengguna adalah pemilik mutlak dari setiap perangkat lunak, kode sumber, atau biner yang dihasilkan melalui penggunaan Adsum. Pengguna berhak untuk mendistribusikan, menjual, atau melisensikan karyanya sendiri berdasarkan ketentuan hukum apa pun, tanpa kewajiban membayar royalti kepada Penulis Adsum.
+
+3. PEMBATASAN REKAYASA BALIK: Pengguna secara tegas dilarang untuk:
+   a) Mendekompilasi, membongkar, atau melakukan rekayasa balik terhadap biner kompiler Adsum.
+   b) Memodifikasi file eksekusi kompiler.
+   c) Mencoba memperoleh kode sumber kompiler dari file binernya.
+
+4. DISTRIBUSI ULANG KOMPILER: Distribusi ulang gratis kompiler Adsum diperbolehkan dengan syarat file EULA ini disertakan dan paket asli tetap utuh serta tidak dimodifikasi.
+
+5. BATASAN TANGGUNG JAWAB: Perangkat lunak disediakan "sebagaimana adanya" (AS-IS). Penulis tidak menjamin bahwa fungsi kriptografi atau jaringan (x86_64 langsung) bebas dari kesalahan. Dalam keadaan apa pun Penulis tidak bertanggung jawab atas kerugian langsung maupun tidak langsung yang timbul dari penggunaan kompiler ini.
+
+
+---
+
+
+Francés
+
+ACCORD DE LICENCE UTILISATEUR FINAL (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Tous droits réservés.
+
+1. LICENCE D’UTILISATION : L’Auteur accorde à l’Utilisateur une licence gratuite, non exclusive et non transférable pour utiliser le compilateur Adsum uniquement sous sa forme binaire exécutable.
+
+2. PROPRIÉTÉ DU LOGICIEL RÉSULTANT : L’Utilisateur est le propriétaire absolu de tout logiciel, code source ou binaire généré par l’utilisation d’Adsum. L’Utilisateur a le droit de distribuer, vendre ou concéder sous licence ses propres créations selon toute condition légale, sans obligation de verser des redevances à l’Auteur d’Adsum.
+
+3. RESTRICTIONS RELATIVES À L’INGÉNIERIE INVERSE : Il est strictement interdit à l’Utilisateur de :
+   a) Décompiler, désassembler ou effectuer une ingénierie inverse du binaire du compilateur Adsum.
+   b) Modifier les fichiers exécutables du compilateur.
+   c) Tenter de dériver le code source du compilateur à partir de ses binaires.
+
+4. REDISTRIBUTION DU COMPILATEUR : La redistribution gratuite du compilateur Adsum est autorisée à condition d’inclure le présent fichier EULA et de conserver le paquet original complet et sans modification.
+
+5. LIMITATION DE RESPONSABILITÉ : Le logiciel est fourni « tel quel » (AS-IS). L’Auteur ne garantit pas que les fonctions cryptographiques ou réseau (x86_64 direct) soient exemptes d’erreurs. En aucun cas l’Auteur ne pourra être tenu responsable des dommages directs ou indirects résultant de l’utilisation de ce compilateur.
+
+
+---
+
+
+Alemán
+
+ENDNUTZER-LIZENZVEREINBARUNG (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Alle Rechte vorbehalten.
+
+1. NUTZUNGSLIZENZ: Der Autor gewährt dem Nutzer eine kostenlose, nicht-exklusive und nicht übertragbare Lizenz zur Nutzung des Adsum-Compilers ausschließlich in seiner ausführbaren Binärform.
+
+2. EIGENTUM AN DER ERSTELLTEN SOFTWARE: Der Nutzer ist der alleinige Eigentümer jeglicher Software, Quellcodes oder Binärdateien, die durch die Nutzung von Adsum erzeugt werden. Der Nutzer ist berechtigt, seine eigenen Werke unter beliebigen rechtlichen Bedingungen zu verbreiten, zu verkaufen oder zu lizenzieren, ohne dem Autor von Adsum Lizenzgebühren zahlen zu müssen.
+
+3. EINSCHRÄNKUNGEN DER REVERSE ENGINEERING: Dem Nutzer ist es strengstens untersagt:
+   a) Die Binärdatei des Adsum-Compilers zu dekompilieren, zu disassemblieren oder Reverse Engineering durchzuführen.
+   b) Die ausführbaren Dateien des Compilers zu verändern.
+   c) Zu versuchen, den Quellcode des Compilers aus dessen Binärdateien abzuleiten.
+
+4. WEITERVERBREITUNG DES COMPILERS: Die kostenlose Weiterverbreitung des Adsum-Compilers ist gestattet, sofern diese EULA-Datei beigefügt wird und das Originalpaket vollständig und unverändert bleibt.
+
+5. HAFTUNGSBESCHRÄNKUNG: Die Software wird „wie besehen“ (AS-IS) bereitgestellt. Der Autor übernimmt keine Gewähr dafür, dass die kryptografischen oder Netzwerkfunktionen (direktes x86_64) fehlerfrei sind. In keinem Fall haftet der Autor für direkte oder indirekte Schäden, die aus der Nutzung dieses Compilers entstehen.
+
+
+---
+
+
+Turco
+
+SON KULLANICI LİSANS SÖZLEŞMESİ (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Tüm hakları saklıdır.
+
+1. KULLANIM LİSANSI: Yazar, Kullanıcıya Adsum derleyicisini yalnızca çalıştırılabilir ikili biçiminde kullanması için ücretsiz, münhasır olmayan ve devredilemez bir lisans verir.
+
+2. ORTAYA ÇIKAN YAZILIMIN MÜLKİYETİ: Kullanıcı, Adsum kullanılarak oluşturulan her türlü yazılımın, kaynak kodun veya ikili dosyanın mutlak sahibidir. Kullanıcı, kendi oluşturduğu ürünleri herhangi bir yasal şart altında dağıtma, satma veya lisanslama hakkına sahiptir ve Adsum’un Yazarına herhangi bir telif ücreti ödeme yükümlülüğü yoktur.
+
+3. TERSİNE MÜHENDİSLİK KISITLAMALARI: Kullanıcının aşağıdakileri yapması kesinlikle yasaktır:
+   a) Adsum derleyicisinin ikili dosyasını dekompile etmek, ayrıştırmak veya tersine mühendislik yapmak.
+   b) Derleyicinin çalıştırılabilir dosyalarını değiştirmek.
+   c) İkili dosyalardan derleyicinin kaynak kodunu elde etmeye çalışmak.
+
+4. DERLEYİCİNİN YENİDEN DAĞITIMI: Adsum derleyicisinin ücretsiz olarak yeniden dağıtılmasına, bu EULA dosyasının eklenmesi ve orijinal paketin eksiksiz ve değiştirilmemiş kalması şartıyla izin verilir.
+
+5. SORUMLULUĞUN SINIRLANDIRILMASI: Yazılım "olduğu gibi" (AS-IS) sağlanır. Yazar, kriptografik veya ağ işlevlerinin (doğrudan x86_64) hatasız olduğunu garanti etmez. Bu derleyicinin kullanımından doğan doğrudan veya dolaylı zararlardan hiçbir durumda Yazar sorumlu tutulamaz.
+
+
+---
+
+
+Coreano
+
+최종 사용자 라이선스 계약 (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. 모든 권리 보유.
+
+1. 사용 라이선스: 저자는 사용자에게 Adsum 컴파일러를 실행 가능한 바이너리 형식으로만 사용할 수 있는 무료, 비독점적이며 양도 불가능한 라이선스를 부여합니다.
+
+2. 생성된 소프트웨어의 소유권: 사용자는 Adsum 사용을 통해 생성된 모든 소프트웨어, 소스 코드 또는 바이너리에 대한 절대적인 소유자입니다. 사용자는 자신의 창작물을 어떠한 법적 조건 하에서도 배포, 판매 또는 라이선스할 권리가 있으며, Adsum 저자에게 로열티를 지불할 의무가 없습니다.
+
+3. 리버스 엔지니어링 제한: 사용자는 다음 행위를 엄격히 금지합니다.
+   a) Adsum 컴파일러의 바이너리를 디컴파일, 디스어셈블 또는 리버스 엔지니어링하는 행위.
+   b) 컴파일러의 실행 파일을 수정하는 행위.
+   c) 바이너리로부터 컴파일러의 소스 코드를 추출하려는 시도.
+
+4. 컴파일러 재배포: 본 EULA 파일이 포함되고 원본 패키지가 완전하며 수정되지 않은 상태로 유지되는 경우, Adsum 컴파일러의 무료 재배포가 허용됩니다.
+
+5. 책임의 제한: 본 소프트웨어는 "있는 그대로"(AS-IS) 제공됩니다. 저자는 암호화 또는 네트워크 기능(직접 x86_64)에 오류가 없음을 보장하지 않습니다. 어떠한 경우에도 본 컴파일러의 사용으로 인해 발생하는 직접적 또는 간접적 손해에 대해 저자는 책임을 지지 않습니다.
+
+
+---
+
+
+Italiano
+
+ACCORDO DI LICENZA CON L’UTENTE FINALE (EULA) – ADSUM 1.x
+Copyright (c) 2026 Andrés Riascos. Tutti i diritti riservati.
+
+1. LICENZA D’USO: L’Autore concede all’Utente una licenza gratuita, non esclusiva e non trasferibile per utilizzare il compilatore Adsum esclusivamente nel suo formato binario eseguibile.
+
+2. PROPRIETÀ DEL SOFTWARE RISULTANTE: L’Utente è il proprietario assoluto di qualsiasi software, codice sorgente o binario generato mediante l’uso di Adsum. L’Utente ha il diritto di distribuire, vendere o concedere in licenza le proprie creazioni secondo qualsiasi termine legale, senza obbligo di pagare royalties all’Autore di Adsum.
+
+3. RESTRIZIONI DI INGEGNERIA INVERSA: È severamente vietato all’Utente:
+   a) Decompilare, disassemblare o effettuare ingegneria inversa sul binario del compilatore Adsum.
+   b) Modificare i file eseguibili del compilatore.
+   c) Tentare di derivare il codice sorgente del compilatore a partire dai suoi binari.
+
+4. RIDISTRIBUZIONE DEL COMPILATORE: È consentita la ridistribuzione gratuita del compilatore Adsum purché sia incluso il presente file EULA e il pacchetto originale rimanga integro e senza modifiche.
+
+5. LIMITAZIONE DI RESPONSABILITÀ: Il software è fornito "così com’è" (AS-IS). L’Autore non garantisce che le funzioni crittografiche o di rete (x86_64 diretto) siano prive di errori. In nessun caso l’Autore sarà responsabile per danni diretti o indiretti derivanti dall’uso di questo compilatore.
